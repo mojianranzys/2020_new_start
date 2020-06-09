@@ -1,0 +1,49 @@
+gene	L12416	L1771	L11421	L12725	L23995	L11263	L19217	L12221	L12135	L1758	L2119	L177	L14289	L12146	L18878
+IDH1	Missense_Mutation	Missense_Mutation		Missense_Mutation		Missense_Mutation	Missense_Mutation					Missense_Mutation			Missense_Mutation
+TP53				Splice_Site,Missense_Mutation	Missense_Mutation		Missense_Mutation				Missense_Mutation	Missense_Mutation			Missense_Mutation
+H3F3A										Missense_Mutation					
+NF1		In_Frame_Del	Missense_Mutation											Nonsense_Mutation	
+CIC	Frame_Shift_Del	Frame_Shift_Del				Frame_Shift_Ins									
+PDGFRA											Missense_Mutation				Missense_Mutation
+PTEN			Missense_Mutation										Frame_Shift_Ins		
+AREG	Frame_Shift_Del				Frame_Shift_Del										
+ARID1A						Nonsense_Mutation									
+ATM											Frame_Shift_Del,Splice_Site				
+BRAF														Missense_Mutation	
+KMT2C						Frame_Shift_Del				Missense_Mutation					
+PIK3R1		Missense_Mutation										Missense_Mutation			
+ABCD1										Missense_Mutation					
+APC													Frame_Shift_Ins		
+BCLAF1										Missense_Mutation					
+BLM						Frame_Shift_Del									
+C6										Missense_Mutation					
+CACNA1S										Missense_Mutation					
+CCDC112										Missense_Mutation					
+CDC27										Missense_Mutation					
+CINP										Missense_Mutation					
+CPAMD8										Missense_Mutation					
+CSNK2A2										Missense_Mutation					
+DDX11										Missense_Mutation					
+DDX51						Missense_Mutation									
+DPY19L1										Frame_Shift_Del					
+DTHD1										Missense_Mutation					
+EEA1										Missense_Mutation					
+FAM14B										Missense_Mutation					
+FCAR										Missense_Mutation					
+FGFR2													Missense_Mutation		
+FKBP9										Nonsense_Mutation,Missense_Mutation					
+FLT1	Missense_Mutation														
+MED12												Missense_Mutation			
+METTL2B										Missense_Mutation					
+MKI67													Frame_Shift_Ins,Frame_Shift_Del		
+MTHFD1L										Missense_Mutation					
+MUC4										Missense_Mutation					
+NOTCH1											Missense_Mutation				
+NOTCH3	Missense_Mutation														
+OR2T8										Missense_Mutation					
+P4HA2										Missense_Mutation					
+PDLIM4										Missense_Mutation					
+PIK3CA										Missense_Mutation					
+PIK3CG											Missense_Mutation				
+POLR1A										Missense_Mutation					
+PPM1D										Nonsense_Mutation					
